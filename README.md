@@ -3,7 +3,7 @@ This project is built using Spring Boot and WebSockets.
 
 Java SpringBoot- web chatting real time project..   
 
-Building a Real Time Chat Application with Spring Boot and Websocket
+
 
 What is Websocket?
 
