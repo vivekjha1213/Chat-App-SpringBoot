@@ -24,7 +24,7 @@ Since websocket is just a communication protocol, it doesn’t know how to send 
 
 Setting up the application
 Our application will have the following configuration which can be set using Spring Initializr :
-* Java version : 19
+* Java version : 11
 * Type : Maven Project
 * Dependencies : Web-socket
 * Spring Boot version : 3.0.4
